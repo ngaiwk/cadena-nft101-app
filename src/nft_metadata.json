@@ -1,0 +1,242 @@
+[
+    {
+      "name": "Project Item #1",
+      "description": "Wallace NFT Collection for NFT 101 Course",
+      "image": "https://gateway.pinata.cloud/ipfs/QmeCh1eDG5FdnGKbKqS3hjdK3pqL8S5wdfBc9EzgSANSED/1.png",
+      "dna": "88b74bdebf86d83966c4b1ee6f75e15cbf75a68c",
+      "edition": 1,
+      "date": 1661868111803,
+      "artist": "Wallace",
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "cinema"
+        },
+        {
+          "trait_type": "Name",
+          "value": "appstore"
+        },
+        {
+          "trait_type": "Logo",
+          "value": "cadena_nft101b"
+        }
+      ],
+      "compiler": "HashLips Art Engine"
+    },
+    {
+      "name": "Project Item #2",
+      "description": "Wallace NFT Collection for NFT 101 Course",
+      "image": "https://gateway.pinata.cloud/ipfs/QmeCh1eDG5FdnGKbKqS3hjdK3pqL8S5wdfBc9EzgSANSED/2.png",
+      "dna": "04831305199641acf45b54307fb5bbfeb7ee3fe2",
+      "edition": 2,
+      "date": 1661868113006,
+      "artist": "Wallace",
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "cinema"
+        },
+        {
+          "trait_type": "Name",
+          "value": "angular"
+        },
+        {
+          "trait_type": "Logo",
+          "value": "cadena_nft101b"
+        }
+      ],
+      "compiler": "HashLips Art Engine"
+    },
+    {
+      "name": "Project Item #3",
+      "description": "Wallace NFT Collection for NFT 101 Course",
+      "image": "https://gateway.pinata.cloud/ipfs/QmeCh1eDG5FdnGKbKqS3hjdK3pqL8S5wdfBc9EzgSANSED/3.png",
+      "dna": "9fc4f7a2cec24956af8573441fca481deac296b8",
+      "edition": 3,
+      "date": 1661868114383,
+      "artist": "Wallace",
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "people"
+        },
+        {
+          "trait_type": "Name",
+          "value": "angellist"
+        },
+        {
+          "trait_type": "Logo",
+          "value": "cadena_nft101b"
+        }
+      ],
+      "compiler": "HashLips Art Engine"
+    },
+    {
+      "name": "Project Item #4",
+      "description": "Wallace NFT Collection for NFT 101 Course",
+      "image": "https://gateway.pinata.cloud/ipfs/QmeCh1eDG5FdnGKbKqS3hjdK3pqL8S5wdfBc9EzgSANSED/4.png",
+      "dna": "b6b995d5104e0c54488134f53b1c01eb94aa51cf",
+      "edition": 4,
+      "date": 1661868115364,
+      "artist": "Wallace",
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "tower"
+        },
+        {
+          "trait_type": "Name",
+          "value": "angular"
+        },
+        {
+          "trait_type": "Logo",
+          "value": "cadena_nft101b"
+        }
+      ],
+      "compiler": "HashLips Art Engine"
+    },
+    {
+      "name": "Project Item #5",
+      "description": "Wallace NFT Collection for NFT 101 Course",
+      "image": "https://gateway.pinata.cloud/ipfs/QmeCh1eDG5FdnGKbKqS3hjdK3pqL8S5wdfBc9EzgSANSED/5.png",
+      "dna": "eb1cd5df98e465a9af92daf7e13a66f82dcb5e67",
+      "edition": 5,
+      "date": 1661868116306,
+      "artist": "Wallace",
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "pier"
+        },
+        {
+          "trait_type": "Name",
+          "value": "angular"
+        },
+        {
+          "trait_type": "Logo",
+          "value": "cadena_nft101b"
+        }
+      ],
+      "compiler": "HashLips Art Engine"
+    },
+    {
+      "name": "Project Item #6",
+      "description": "Wallace NFT Collection for NFT 101 Course",
+      "image": "https://gateway.pinata.cloud/ipfs/QmeCh1eDG5FdnGKbKqS3hjdK3pqL8S5wdfBc9EzgSANSED/6.png",
+      "dna": "4e4653d80dde2c78641e8bad30b09d12315be9cd",
+      "edition": 6,
+      "date": 1661868117387,
+      "artist": "Wallace",
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "housing"
+        },
+        {
+          "trait_type": "Name",
+          "value": "angular"
+        },
+        {
+          "trait_type": "Logo",
+          "value": "cadena_nft101b"
+        }
+      ],
+      "compiler": "HashLips Art Engine"
+    },
+    {
+      "name": "Project Item #7",
+      "description": "Wallace NFT Collection for NFT 101 Course",
+      "image": "https://gateway.pinata.cloud/ipfs/QmeCh1eDG5FdnGKbKqS3hjdK3pqL8S5wdfBc9EzgSANSED/7.png",
+      "dna": "627242a300b6d54ec189db030c5950773b5c8cdb",
+      "edition": 7,
+      "date": 1661868118355,
+      "artist": "Wallace",
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "pier"
+        },
+        {
+          "trait_type": "Name",
+          "value": "appstore"
+        },
+        {
+          "trait_type": "Logo",
+          "value": "cadena_nft101b"
+        }
+      ],
+      "compiler": "HashLips Art Engine"
+    },
+    {
+      "name": "Project Item #8",
+      "description": "Wallace NFT Collection for NFT 101 Course",
+      "image": "https://gateway.pinata.cloud/ipfs/QmeCh1eDG5FdnGKbKqS3hjdK3pqL8S5wdfBc9EzgSANSED/8.png",
+      "dna": "2122550758395e9ceec5ed9a4faf67e803827b55",
+      "edition": 8,
+      "date": 1661868119813,
+      "artist": "Wallace",
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "street"
+        },
+        {
+          "trait_type": "Name",
+          "value": "angellist"
+        },
+        {
+          "trait_type": "Logo",
+          "value": "cadena_nft101b"
+        }
+      ],
+      "compiler": "HashLips Art Engine"
+    },
+    {
+      "name": "Project Item #9",
+      "description": "Wallace NFT Collection for NFT 101 Course",
+      "image": "https://gateway.pinata.cloud/ipfs/QmeCh1eDG5FdnGKbKqS3hjdK3pqL8S5wdfBc9EzgSANSED/9.png",
+      "dna": "ba29a715c574e948247667ad360545eb79fe6aa6",
+      "edition": 9,
+      "date": 1661868120774,
+      "artist": "Wallace",
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "tower"
+        },
+        {
+          "trait_type": "Name",
+          "value": "btc"
+        },
+        {
+          "trait_type": "Logo",
+          "value": "cadena_nft101b"
+        }
+      ],
+      "compiler": "HashLips Art Engine"
+    },
+    {
+      "name": "Project Item #10",
+      "description": "Wallace NFT Collection for NFT 101 Course",
+      "image": "https://gateway.pinata.cloud/ipfs/QmeCh1eDG5FdnGKbKqS3hjdK3pqL8S5wdfBc9EzgSANSED/10.png",
+      "dna": "2e90c497c12774575ac21dbf547a871e681b2b5c",
+      "edition": 10,
+      "date": 1661868121852,
+      "artist": "Wallace",
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "tower"
+        },
+        {
+          "trait_type": "Name",
+          "value": "amazonorigina"
+        },
+        {
+          "trait_type": "Logo",
+          "value": "cadena_nft101b"
+        }
+      ],
+      "compiler": "HashLips Art Engine"
+    }
+  ]
